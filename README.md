@@ -1,16 +1,19 @@
-### Hi there 👋
+
+
+PhD student at University College Dublin. Research interests in numerical simulation of fluids and applying machine learning to study breaking waves.
+
+
+
+
 
 <!--
-**ryan597/ryan597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on Python projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ryan.smith@ucdconnect.ie
+
+
 -->

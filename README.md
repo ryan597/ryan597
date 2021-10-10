@@ -1,6 +1,8 @@
 # Ryan Smith
 
-PhD student at University College Dublin. Research interests in numerical simulation of fluids and applying machine learning to study breaking waves.
+PhD student at University College Dublin. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves.
+
+I also enjoy playing chess, reading, taking hundreds of pictures of my cat on a daily basis and occasionally surfing.
 
 ## Contact
 
@@ -23,6 +25,15 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 </details>
 
 <details>
+<summary>C/C++</summary>
+
+- Fluid Simulation (C)
+- Object Oriented Programming (C++)
+- OpenCV (C++)
+
+</details>
+
+<details>
 <summary>MATLAB</summary>
 
 - Scientific programming and scripting
@@ -33,11 +44,11 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 <summary>R</summary>
 
 - Statistical analysis
-- Have previously taught basic R programming for University modules
+- Have previously taught basic R programming for University undergraduates
 
 </details>
 
-## Other stuff 
+## Other stuff
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning - C++, Julia

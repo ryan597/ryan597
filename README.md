@@ -1,14 +1,21 @@
 # Ryan Smith
 
-PhD student at University College Dublin. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves.
+PhD student at University College Dublin in the School of Mathematics and Statistics. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves. Code for research projects not yet published or submitted is kept in private repositories.
 
 I also enjoy playing chess, reading, taking hundreds of pictures of my cat on a daily basis and occasionally surfing.
 
+---
+
 ## Contact
 
-E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
+- E-mail - [ryan.smith@ucdconnect.ie](mailto:ryan.smith@ucdconnect.ie)
+- LinkedIn - [Ryan Smith](https://www.linkedin.com/in/ryan-smith97/)
+
+---
 
 ## Technologies
+
+Click to expand for details.
 
 <details>
 <summary>Python</summary>
@@ -21,6 +28,7 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 - Image analysis
 - OpenCV
 - Matplotlib/Seaborn/Plotly
+- Object Oriented Programming
 
 </details>
 
@@ -30,6 +38,7 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 - Fluid Simulation (C)
 - Object Oriented Programming (C++)
 - OpenCV (C++)
+- MakeFiles
 
 </details>
 
@@ -48,10 +57,11 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 
 </details>
 
+---
+
 ## Other stuff
 
 - 🔭 I’m currently working on my PhD and some fun side projects
 - 🌱 I’m currently learning - C++ (20), Julia, OpenCV in C++
-- 👯 I’m looking to collaborate on Python projects and Deep Learning
+- 👯 I’m looking to collaborate on Python, C++ and Deep Learning/Computer Vision projects
 - 📫 How to reach me: ryan.smith@ucdconnect.ie
-

@@ -50,8 +50,8 @@ E-mail - [ryan.smith@ucdconnect.ie](ryan.smith@ucdconnect.ie)
 
 ## Other stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning - C++, Julia
+- 🔭 I’m currently working on my PhD and some fun side projects
+- 🌱 I’m currently learning - C++ (20), Julia, OpenCV in C++
 - 👯 I’m looking to collaborate on Python projects and Deep Learning
 - 📫 How to reach me: ryan.smith@ucdconnect.ie
 

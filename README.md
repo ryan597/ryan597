@@ -43,6 +43,13 @@ Click to expand for details.
 </details>
 
 <details>
+<summary>Rust</summary>
+
+- Just started November 2021: Learning syntax and language features
+
+</details>
+
+<details>
 <summary>MATLAB</summary>
 
 - Scientific programming and scripting
@@ -62,6 +69,6 @@ Click to expand for details.
 ## Other stuff
 
 - 🔭 I’m currently working on my PhD and some fun side projects
-- 🌱 I’m currently learning - C++ (20), Julia, OpenCV in C++
-- 👯 I’m looking to collaborate on Python, C++ and Deep Learning/Computer Vision projects
+- 🌱 I’m currently learning - Rust, C++ (20), OpenCV in C++, Linux kernel dev
+- 👯 I’m looking to collaborate on Python, C++, Rust and Deep Learning/Computer Vision projects
 - 📫 How to reach me: ryan.smith@ucdconnect.ie

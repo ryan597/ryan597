@@ -2,7 +2,7 @@
 
 PhD student at University College Dublin in the School of Mathematics and Statistics. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves. Code for research projects not yet published or submitted is kept in private repositories.
 
-I also enjoy playing chess, reading, taking hundreds of pictures of my cat on a daily basis and occasionally surfing.
+I also enjoy playing chess, reading, taking hundreds of pictures of my cat on a daily basis.
 
 ---
 
@@ -45,7 +45,7 @@ Click to expand for details.
 <details>
 <summary>Rust</summary>
 
-- Just started November 2021: Learning syntax and language features
+- (In progress)...
 
 </details>
 

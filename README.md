@@ -13,7 +13,7 @@ I also enjoy playing chess, reading, taking hundreds of pictures of my cat on a 
 
 ---
 
-## Technologies
+## Programming Languages
 
 Click to expand for details.
 
@@ -38,7 +38,7 @@ Click to expand for details.
 - Fluid Simulation (C)
 - Object Oriented Programming (C++)
 - OpenCV (C++)
-- MakeFiles
+- MakeFiles, CMake, Meson/Ninja
 
 </details>
 
@@ -59,8 +59,8 @@ Click to expand for details.
 <details>
 <summary>R</summary>
 
-- Statistical analysis
-- Have previously taught basic R programming for University undergraduates
+- Statistical and exploratory data analysis
+- Experience teaching R programming for University undergraduates for Statistics modules
 
 </details>
 

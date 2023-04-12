@@ -1,21 +1,13 @@
 # Ryan Smith
 
-PhD student at University College Dublin in the School of Mathematics and Statistics. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves. Code for research projects not yet published or submitted is kept in private repositories.
+PhD student at University College Dublin in the School of Mathematics and Statistics. My research interests are in the application of machine leaning to study fluids, and in particular my work is focused on computer vision methods applied to breaking ocean waves.
 
 I also enjoy playing chess, reading, and training BJJ.
 
----
-
-## Contact
-
-- E-mail - [ryan.smith@ucdconnect.ie](mailto:ryan.smith@ucdconnect.ie)
-- LinkedIn - [Ryan Smith](https://www.linkedin.com/in/ryan-smith97/)
-
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan597&count_private=true&theme=onedark&show_icons=true)](https://github.com/ryan597/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan597&layout=compact&theme=onedark&langs_count=6&hide=Vim%20Script,Jupyter%20Notebook,matlab,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
-
-Click to expand for details.
 
 <details>
 <summary>Python</summary>
@@ -70,5 +62,5 @@ Click to expand for details.
 
 - 🔭 I’m currently working on my PhD and some fun side projects
 - 🌱 I’m currently learning - Rust, C++ (20), OpenCV in C++, Linux kernel dev
-- 👯 I’m looking to collaborate on Python, C++, Rust and Deep Learning/Computer Vision projects
-- 📫 How to reach me: ryan.smith@ucdconnect.ie
+- 👯 I’m open to collaborate on Python, C++ and Rust projects
+

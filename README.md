@@ -5,8 +5,8 @@ PhD student at University College Dublin in the School of Mathematics and Statis
 I also enjoy playing chess, reading, and training BJJ.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan597&count_private=true&theme=onedark&show_icons=true)](https://github.com/ryan597/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan597&layout=compact&theme=onedark&langs_count=6&hide=Vim%20Script,Jupyter%20Notebook,matlab,Objective-C)](https://github.com/ryan597/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan597&count_private=true&theme=onedark&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan597&layout=compact&theme=onedark&langs_count=6&hide=Vim%20Script,Jupyter%20Notebook,matlab,Objective-C)]()
 
 
 ## Programming Languages

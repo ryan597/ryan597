@@ -6,7 +6,7 @@ I also enjoy playing chess, reading, and training BJJ.
 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan597&count_private=true&theme=onedark&show_icons=true)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan597&layout=compact&theme=onedark&langs_count=6&hide=Vim%20Script,Jupyter%20Notebook,matlab,Objective-C)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan597&layout=compact&theme=onedark&langs_count=6&hide=Vim%20Script,Jupyter%20Notebook,matlab,Objective-C&exclude_repo=pi-torch)]()
 
 
 ## Programming Languages
